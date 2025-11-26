@@ -13,6 +13,8 @@ summary: >-
 
 Welcome to the **Cyberpony Express BBS** project!  This repository will contain the code and documentation for the still-under-development text‑based bulletin‑board system that operates over the [Meshtastic](https://meshtastic.org) mesh‑networking platform.  It forms the digital‑postal backbone of the [Cyberpony Express](https://highdesertinstitute.org/guilds/lorekeepers/cyberpony-express/)  project—a free, encrypted mesh network built on LoRa radios that lets communities share messages and files when traditional Internet connections are unavailable.
 
+*The Pathfinders' Guild leads this software effort, ensuring the mesh can bridge distant outposts and keep travelers connected even when traditional infrastructure fails.*
+
 ## Why Cyberpony Express?
 
 Conventional communication infrastructure is fragile. A single fiber cut or power outage can leave communities without access to vital information. Cyberpony Express solves this problem by creating a decentralized “digital postal service” built on inexpensive Meshtastic nodes. It allows people to send and receive messages, files and other data across a mesh of devices without relying on central servers. Anyone can host a node, and the network runs entirely off‑grid if needed.
