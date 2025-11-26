@@ -3,10 +3,10 @@ layout: project
 title: "Cyberpony Express BBS"
 slug: cyberpony-express-bbs
 guilds:
-	- pathfinders
+    - pathfinders
 link: "https://github.com/High-Desert-Institute/cyberpony-express-bbs"
 summary: >-
-	The bulletin board software that powers Cyberpony Express, providing resilient store-and-forward messaging across the mesh network.
+    The bulletin board software that powers Cyberpony Express, providing resilient store-and-forward messaging across the mesh network.
 ---
 
 # Cyberpony Express Bulletin Board Service (BBS)
