@@ -1,3 +1,14 @@
+---
+layout: project
+title: "Cyberpony Express BBS"
+slug: cyberpony-express-bbs
+guilds:
+	- pathfinders
+link: "https://github.com/High-Desert-Institute/cyberpony-express-bbs"
+summary: >-
+	The bulletin board software that powers Cyberpony Express, providing resilient store-and-forward messaging across the mesh network.
+---
+
 # Cyberpony Express Bulletin Board Service (BBS)
 
 Welcome to the **Cyberpony Express BBS** project!  This repository will contain the code and documentation for the still-under-development text‑based bulletin‑board system that operates over the [Meshtastic](https://meshtastic.org) mesh‑networking platform.  It forms the digital‑postal backbone of the [Cyberpony Express](https://highdesertinstitute.org/guilds/lorekeepers/cyberpony-express/)  project—a free, encrypted mesh network built on LoRa radios that lets communities share messages and files when traditional Internet connections are unavailable.
